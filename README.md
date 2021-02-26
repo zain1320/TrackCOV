@@ -1,4 +1,4 @@
-# COVID-19 Tracker
+[# COVID-19 Tracker] (https://trackzcov.netlify.app)
 API used: https://covid19.mathdro.id/api
 
 Setup:
